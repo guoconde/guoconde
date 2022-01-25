@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source!
 - 📫 To reach me, send me email to guoconde@gmail.com
 
-- 👀 Look: <a href='https://gustavo-conde.vercel.app/'>My portifolio page</a>
+- 👀 Look: (In Production) <a href='https://gustavo-conde.vercel.app/'>My portifolio page</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
