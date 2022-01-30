@@ -24,6 +24,12 @@
   </a> 
 </p>
 
+
+<h3 align="left">Contacts:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-conde-b64759212/" target="_blank"> <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a> 
+  <a href="mailto:guoconde@gmail.com" target="_blank"> <img src="https://icongr.am/entypo/mail.svg?size=128&color=c90d0d" alt="figma" width="40" height="40"/> </a> 
+</p>
 <!---
 guoconde/guoconde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
