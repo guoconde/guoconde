@@ -15,7 +15,7 @@
 
 
 
-<strong>Quer saber mais sobre mim? <s>Ou conversar atoa?</s> Me mande um email:</strong> <a href="mailto:guoconde@gmail.com" target="blank"> guoconde@gmail.com </a>
+<strong>Quer saber mais sobre mim? <s>Ou conversar à toa?</s> Me mande um email:</strong> <a href="mailto:guoconde@gmail.com" target="blank"> guoconde@gmail.com </a>
 
 
 <h3 align="left">Linguagens e ferramentras:</h3>
