@@ -1,17 +1,12 @@
 <h1>Olá visitante, eu sou o Gustavo Conde.</h1>
 
-  É muito bom te ver por aqui. <strong>Já sei!</strong> Você quer saber um pouco a meu respeito, certo?
-
-  Você já sabe o meu nome, <s>então não vou repetir,</s> trabalhei por muitos anos como instrutor profissonal no senai, também atuei na gestão da produção de algumas empresas, mas sempre senti que faltava algo para completar o meu dia como profissional <s>parece que eu queria mais problemas, risos</s> , então decidi dar uma reviravolta na minha vida, comecei a estudar programação em dezembro 2020, em outubro de 2021 entrei para o curso de bootcamp da <a href="https://www.driven.com.br/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNJya1lAbCxyoRm-ypXNZ1eVdA1YrmayoyMlqko8JGxvArcAKdosFQaAoXIEALw_wcB" target="blank"> DRIVEN. </a>
-   
-   Minhas experiências profissionais me trouxeram habilidades muito legais como: <br>
-    - Capacidade de treinamento; <br>
-    - Planejamento e organização; <br>
-    - Lirerança; <br>
-    - Lidar com conflitos; <br> 
-    - Participar de negociações de compras; <br>
-    <br>
-  Sou um apaixonado por tecnologia, acho que isso acabou me chamando atenção para a área de desenvolvimento. Depois que comecei a estudar e aprender a programar, encontrei outra coisa que gosto muito, a possibilidade resolver problema para <s>clientes que pagam</s> as pessoas, acho muito interessante como uma dificuldade me desafia a pesquisar e buscar novos conhecimentos, sei que a caminhada esta no começo e que nem tudo são flores, mas esses dois fatores são a base para eu querer continuar neste caminho.
+Desenvolvedor Full Stack com mais de 2 anos de experiência, especializado em tecnologias como
+TypeScript, ReactJS, Node.js, React Native, e diversas outras ferramentas e frameworks. Busco oportunidades em
+empresas desafiadoras que valorizem a inovação, o trabalho em equipe e a busca constante por soluções
+criativas. Sou apaixonado por enfrentar desafios como desenvolvedor, pois acredito que cada problema apresenta
+uma oportunidade de melhoria. Minha abordagem centrada no cliente e o compromisso em aprimorar
+continuamente as entregas refletem minha dedicação em superar expectativas e contribuir para o sucesso da
+equipe e da organização.
 
 
 
